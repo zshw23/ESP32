@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #define BOOT 33//定义开关输入引脚
 #define LED  2  //定义LED输出引脚
 bool    i=0;   //定义开关状态值
